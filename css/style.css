@@ -1,3 +1,9 @@
+.eng_flag,
+.ge_flag {
+	width: 30px;
+}
+
+
 /*Main Page*/
 .body {
 	background-color: #FAF4F2;
@@ -224,6 +230,14 @@ li {
 	text-align: center;
 	margin-top: 20px;
 }
+.h3-12 {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 18px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 17px;
+}
 .h3-4 {
 	font-family: Archivo;
 	font-weight: Regular;
@@ -243,7 +257,7 @@ li {
 .h3-6 {
 	font-family: Archivo;
 	font-weight: Regular;
-	font-size: 20px;
+	font-size: 19px;
 	color: #3B3735;
 	text-align: center;
 	margin-top: 17px;
@@ -251,15 +265,39 @@ li {
 .h3-7 {
 	font-family: Archivo;
 	font-weight: Regular;
-	font-size: 17px;
+	font-size: 19px;
 	color: #3B3735;
 	text-align: center;
-	margin-top: 11px;
+	margin-top: 15px;
+}
+.h3-7_ge {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 16px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 15px;
+}
+.h3-7_en {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 19px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 17px;
 }
 .h3-8 {
 	font-family: Archivo;
 	font-weight: Regular;
 	font-size: 20px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 14px;
+}
+.h3-8_ge {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 17px;
 	color: #3B3735;
 	text-align: center;
 	margin-top: 14px;
@@ -271,6 +309,22 @@ li {
 	color: #3B3735;
 	text-align: center;
 	margin-top: 13px;
+}
+.h3-9_en {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 21px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 15px;
+}
+.h3-9_en2 {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 21px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 21px;
 }
 .h2-11 {
 	font-family: Archivo;
@@ -286,7 +340,15 @@ li {
 	font-size: 22px;
 	color: #3B3735;
 	text-align: center;
-	margin-top: 14px;
+	margin-top: 17px;
+}
+.h3-10_ge {
+	font-family: Archivo;
+	font-weight: Regular;
+	font-size: 21px;
+	color: #3B3735;
+	text-align: center;
+	margin-top: 17px;
 }
 .more {
 	width: 185px;
@@ -296,6 +358,30 @@ li {
 	margin: 0 auto;
 	margin-top: 16px;
 }
+.more_ge {
+	width: 185px;
+	height: 50px;
+	background-color: #f6f6f6;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-top: 12px;
+}
+.more_ge2 {
+	width: 185px;
+	height: 50px;
+	background-color: #f6f6f6;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-top: 9px;
+}
+.more_ge3 {
+	width: 185px;
+	height: 50px;
+	background-color: #f6f6f6;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-top: 36px;
+}
 .more1 {
 	width: 185px;
 	height: 50px;
@@ -304,13 +390,21 @@ li {
 	margin: 0 auto;
 	margin-top: 34px;
 }
+.more5 {
+	width: 185px;
+	height: 50px;
+	background-color: #f6f6f6;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-top: 28px;
+}
 .more2 {
 	width: 185px;
 	height: 50px;
 	background-color: #f6f6f6;
 	border-radius: 25px;
 	margin: 0 auto;
-	margin-top: 21px;
+	margin-top: 24px;
 }
 .more3 {
 	width: 185px;
@@ -318,7 +412,7 @@ li {
 	background-color: #f6f6f6;
 	border-radius: 25px;
 	margin: 0 auto;
-	margin-top: 10px;
+	margin-top: 12px;
 }
 .more4 {
 	width: 185px;
@@ -327,6 +421,14 @@ li {
 	border-radius: 25px;
 	margin: 0 auto;
 	margin-top: 23px;
+}
+.more4_en {
+	width: 185px;
+	height: 50px;
+	background-color: #f6f6f6;
+	border-radius: 25px;
+	margin: 0 auto;
+	margin-top: 17px;
 }
 .more:hover,
 .more1:hover,
@@ -575,6 +677,18 @@ li {
 	font-size: 30px;
 	color: #3B3735;
 }
+.ttc_name {
+	font-family: Archivo;
+	font-weight: bold;
+	font-size: 16px;
+	color: #3B3735;
+}
+.ttc_name2 {
+	font-family: Archivo;
+	font-weight: bold;
+	font-size: 25px;
+	color: #3B3735;
+}
 .fa-facebook-square {
 	margin-top: 10px;
 	font-size: 30px;
@@ -595,7 +709,11 @@ li {
 .Yandex,
 .Bolt,
 .Maxim,
-.Econom {
+.Econom,
+.Journey,
+.Timetable,
+.Bus,
+.Stop {
 	max-width: 400px;
 	width: 100%;
 }
@@ -604,7 +722,8 @@ li {
 	width: 100%;
 }
 .Rent-Car,
-.Taxi {
+.Taxi,
+.ttc {
 	display: flex;
 	/*margin: 0 auto;*/
 	margin-bottom: 20px;
@@ -918,6 +1037,13 @@ li {
 .number {
 	width: 176px;
 	height: 31px;
+	font-family: MyriadPro-Regular;
+	font-size: 23px;
+	padding-left: 29.6px;
+}
+.number3 {
+	width: 176px;
+	height: 40px;
 	font-family: MyriadPro-Regular;
 	font-size: 23px;
 	padding-left: 29.6px;
