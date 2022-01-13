@@ -107,7 +107,8 @@
 		height: 540px;
 	}
 	.Rent-Car, 
-	.Taxi {
+	.Taxi,
+	.ttc {
 		justify-content: space-around;
 		flex-wrap: wrap;
 	}
