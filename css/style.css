@@ -658,6 +658,8 @@ li {
 
 
 .rent {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 }
 .car-rent {
@@ -696,7 +698,7 @@ li {
 .fa-phone-alt {
 	margin-top: 10px;
 	font-size: 26px;
-	width: 300px;
+	width: 30px;
 }
 .h2-29 {
 	font-family: Archivo;
@@ -725,6 +727,8 @@ li {
 .Rent-Car,
 .Taxi,
 .ttc {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 	/*margin: 0 auto;*/
 	margin-bottom: 20px;
